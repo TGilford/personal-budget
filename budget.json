@@ -1,0 +1,44 @@
+{
+    "myBudget": [
+        {
+            "title": "Eat out",
+            "budget": 25
+        },
+        {
+            "title": "Rent",
+            "budget": 275
+        },
+        {
+            "title": "Groceries",
+            "budget": 110
+        },
+        {
+            "title": "Utilities",
+            "budget": 150
+        },
+        {
+            "title": "Phone",
+            "budget": 45
+        },
+        {
+            "title": "Car",
+            "budget": 150
+        },
+        {
+            "title": "Gas",
+            "budget": 65
+        },
+        {
+            "title": "Savings",
+            "budget": 150
+        },
+        {
+            "title": "Netflix Subscription",
+            "budget": 90
+        },
+        {
+            "title": "Gym",
+            "budget": 200
+        }
+    ]
+}
